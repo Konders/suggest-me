@@ -3,7 +3,7 @@ import s from "./Title.module.scss";
 const Title = () => {
   return (
     <div className={s.title_container}>
-      <h1 className={s.title}>Filmoteka</h1>
+      <h1 className={s.title}>We made such change</h1>
       <p className={s.description}>
         Discover new and exciting movies with Suggest.me!
         <br />
